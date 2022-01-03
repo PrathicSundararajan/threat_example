@@ -1,5 +1,10 @@
 > This is intended for the CDC as part of the **[Detecting Emerging Threats in Injury and Violence Using Network Science](https://www.freelancer.com/contest/Detecting-Emerging-Threats-in-Injury-and-Violence-Using-Network-Science-2019614)**
 
+![GitHub Logo](https://github.com/PrathicSundararajan/threat_example/blob/master/assets/clusters.png)
+
+
+[["https://github.com/PrathicSundararajan/threat_example/blob/master/assets/clusters.png"]]
+
 ## Executive Summary
 Adverse childhood experiences (ACEs) are traumatic events that occur to an individual before the age of 18. These experiences include domestic violence, mental illness, physical neglect, among others. According to the Centers of Disease Control, "Adverse childhood experiences can have a tremendous impact on future violence victimization and perpetration, and lifelong health and opportunity". The COVID-19 pandemic has accelerated the negative impacts of ACEs necessitating novel methods of identifying and intervening against them. While ACEs may be broad in characterization, distinguishing these events from normal childhood experiences has not been thoroughly explored. This distinction is necessary if intervention protocols are to be developed and implemented. 
 
